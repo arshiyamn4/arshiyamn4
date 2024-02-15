@@ -1,5 +1,5 @@
 yygsudo apt install npm 
-
+te
 npm installl -g yarn  
 
 apt install cargo 
