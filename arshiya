@@ -3,7 +3,7 @@ te
 npm installl -g yarn  
 
 apt install cargo 
-
+dhdh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 
 source ~/.bashrc 
